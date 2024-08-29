@@ -5,7 +5,6 @@ tk = tkinter.Tk()
 tk.geometry('900x700')
 
 canvas = tkinter.Canvas(tk, width=900, height=700)
-canvas.pack()
 
 A = [450, 50]
 B = [100, 600]
