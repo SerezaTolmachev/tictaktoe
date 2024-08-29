@@ -6,6 +6,7 @@ tk.geometry('900x700')
 
 canvas = tkinter.Canvas(tk, width=900, height=700)
 
+
 A = [450, 50]
 B = [100, 600]
 C = [800, 600]
